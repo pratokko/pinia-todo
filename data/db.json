@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "play gloomhaven",
+      "isFav": true
+    },
+    {
+      "id": 2,
+      "title": "mow the lawn",
+      "isFav": false
+    },
+    {
+      "title": "become an eldern lord",
+      "isFav": true,
+      "id": 3
+    },
+    {
+      "title": "eat some pinapples",
+      "isFav": false,
+      "id": 4
+    },
+    {
+      "title": "eat ",
+      "isFav": true,
+      "id": 7984
+    },
+    {
+      "title": "sleep ",
+      "isFav": true,
+      "id": 410
+    },
+    {
+      "title": "code",
+      "isFav": true,
+      "id": 1965
+    }
+  ]
+}
